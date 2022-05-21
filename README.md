@@ -6,7 +6,7 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOHOO0)](https://github.com/anuraghazra/github-readme-stats)
   <br/><br/>
   
-  ## ✏solved.ac
+  ## ✏ solved.ac
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoohoo030)](https://solved.ac/yoohoo030/)
   
   ## 🗡 STACKS
