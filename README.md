@@ -2,8 +2,8 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=0:00C9FF,100:92FE9D&height=250&section=header&text=🖐🏻%20Hi%20there,%20I'm%20YOOHOO%20🌙&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOOHOO0&layout=compact&bg_color=20,91eae4,86A8E7,7F7FD5&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOHOO0&bg_color=20,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOOHOO0&layout=compact&bg_color=20,91eae4,86A8E7,7F7FD5&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   
   ## ✏ solved.ac
