@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=0:74ebd5,100:ACB6E5&height=250&section=header&text=🖐🏻%20Hi%20there,%20I'm%20YOOHOO%20🌙&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
   
-  🎓 ɪ ᴀᴍ ᴍᴀᴊᴏʀɪɴɢ ɪɴ ᴇᴄᴏɴᴏᴍɪᴄs ᴀɴᴅ ᴄsᴇ ᴀᴛ sᴏɢᴀɴɢ ᴜɴɪᴠᴇʀsɪᴛʏ.
+  🎓 ɪ ᴀᴍ ᴍᴀᴊᴏʀɪɴɢ ɪɴ **ᴇᴄᴏɴᴏᴍɪᴄs ᴀɴᴅ ᴄsᴇ** ᴀᴛ sᴏɢᴀɴɢ ᴜɴɪᴠᴇʀsɪᴛʏ.
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOHOO0&bg_color=20,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   <br>
@@ -28,7 +28,6 @@
   ### ☘ ME
   <a href="https://velog.io/@yoohoo030" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
   <a href="mailto:yoohoo030@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  
 </div>
 
 <!--
