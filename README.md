@@ -7,11 +7,11 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOHOO0&bg_color=20,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   
-  ## ✏ solved.ac
+  ### ✏ solved.ac
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoohoo030)](https://solved.ac/yoohoo030/)
   <img src="http://mazandi.herokuapp.com/api?handle=yoohoo030&theme=warm"/>
   
-  ## 🗡 STACKS
+  ### 🗡 STACKS
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
-  ## ☘ ME
+  ### ☘ ME
   <a href="https://velog.io/@yoohoo030" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
   <a href="mailto:yoohoo030@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   
