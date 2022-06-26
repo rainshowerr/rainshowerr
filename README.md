@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=0:74ebd5,100:ACB6E5&height=250&section=header&text=🖐🏻%20Hi%20there,%20I'm%20YOOHOO%20🌙&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=0:74ebd5,100:ACB6E5&height=250&section=header&text=Hi%20there,%20I'm%20YOOHOO&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
   
   🎓 ɪ ᴀᴍ ᴍᴀᴊᴏʀɪɴɢ ɪɴ **ᴇᴄᴏɴᴏᴍɪᴄs ᴀɴᴅ ᴄsᴇ** ᴀᴛ sᴏɢᴀɴɢ ᴜɴɪᴠᴇʀsɪᴛʏ.
   
