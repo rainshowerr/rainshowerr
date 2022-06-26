@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=0:74ebd5,100:ACB6E5&height=250&section=header&text=Hi%20there,%20I'm%20YOOHOO&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
   
-  🎓 ɪ ᴀᴍ ᴍᴀᴊᴏʀɪɴɢ ɪɴ **ᴇᴄᴏɴᴏᴍɪᴄs ᴀɴᴅ ᴄsᴇ** ᴀᴛ sᴏɢᴀɴɢ ᴜɴɪᴠᴇʀsɪᴛʏ.
+  ` 🎓 I am majoring in Economics and CSE at Sogang univ. `
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOHOO0&bg_color=20,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   <br>
