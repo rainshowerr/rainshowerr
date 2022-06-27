@@ -4,7 +4,7 @@
   
   `🎓 I am majoring in Economics and CSE at Sogang univ.`
   
-  `🌱 Currently learning in 42 Seoul`
+  `🌱 Currently learning computer science in 42 Seoul`
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOHOO0&bg_color=20,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   <br>
