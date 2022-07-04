@@ -1,12 +1,16 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=0:74ebd5,100:ACB6E5&height=250&section=header&text=Hi%20there,%20I'm%20YOOHOO&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=0:C6FFDD,50:FBD786,100:f7797d&height=250&section=header&text=Hi%20there,%20I'm%20YOOHOO&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
   
-  `🎓 I am majoring in Economics and CSE at Sogang univ.`
+  🎓 I am majoring in Economics and CSE at Sogang univ.
   
-  `🌱 42 Seoul cadet : seoshin`
+  ### 🌱 42 Seoul cadet : seoshin
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOHOO0&bg_color=20,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+  [![seoshin's 42 stats](https://badge42.vercel.app/api/v2/cl56gccpe001109mava0fxil5/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
+  
+  ### 😊 Stats
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOHOO0&bg_color=20,e1eec3,f05053&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   
   ### ✏ solved.ac
