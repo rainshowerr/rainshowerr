@@ -15,7 +15,6 @@
   
   ### ✏ solved.ac
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoohoo030)](https://solved.ac/yoohoo030/)
-  <img src="http://mazandi.herokuapp.com/api?handle=yoohoo030&theme=warm"/>
   
   ### 🗡 STACKS
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
