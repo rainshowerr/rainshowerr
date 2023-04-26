@@ -5,18 +5,12 @@
   🎓 I am majoring in Economics and CSE at Sogang univ.
   
   ### 🌱 42 Seoul cadet : seoshin
-  
   [![seoshin's 42 stats](https://badge42.vercel.app/api/v2/cl56gccpe001109mava0fxil5/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
-  
-  ### 😊 Stats
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOHOO0&bg_color=20,e1eec3,f05053&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
-  
+
   ### ✏ solved.ac
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoohoo030)](https://solved.ac/yoohoo030/)
   
-  ### 🗡 STACKS
+  ### 🗡 stacks
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
