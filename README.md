@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=0:C6FFDD,50:FBD786,100:f7797d&height=250&section=header&text=Hi%20there,%20I'm%20YOOHOO&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=0:C6FFDD,50:FBD786,100:f7797d&height=200&section=header&text=Hi%20there,%20I'm%20YOOHOO&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
   
   🎓 I am majoring in Economics and CSE at Sogang univ.
   
