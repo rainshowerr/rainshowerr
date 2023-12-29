@@ -1,10 +1,10 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=0:C6FFDD,50:FBD786,100:f7797d&height=200&section=header&text=Hi%20there,%20I'm%20YOOHOO&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
+  # 🤗 Hi there, I'm YOOHOO
+  🎓 I am majoring in Econ and CSE at Sogang univ.
   
-  🎓 I am majoring in Economics and CSE at Sogang univ.
+  🌱 42 Seoul cadet (2022/7/4 ~ 2023/5/18)
   
-  ### 🌱 42 Seoul cadet (2022/7/4 ~ 2023/5/18)
   [![seoshin's 42 stats](https://badge42.vercel.app/api/v2/cl56gccpe001109mava0fxil5/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
   ### ✏ solved.ac
