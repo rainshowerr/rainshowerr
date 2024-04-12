@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🤗 Hi there, I'm YOOHOO
+  # 🤗 Hi there, I'm Yoohoo
   🎓 I am majoring in Econ and CSE at Sogang univ.
   
   🌱 42 Seoul cadet (2022/7/4 ~ 2023/5/18)
