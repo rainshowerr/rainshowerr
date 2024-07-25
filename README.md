@@ -34,6 +34,7 @@
 
 ### 🗡 Studying
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=black">
 <br>
 
 ### 🗡 Tools
