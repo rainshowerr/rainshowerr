@@ -36,22 +36,10 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=black">
 <br>
-
-### 🗡 Tools
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-<br>
 <br>
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rainshowerr) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainshowerr&layout=compact)
-  
-  ### ☘ ME
-  <a href="https://velog.io/@yoohoo030" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
-  <a href="mailto:yoohoo030@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-</div>
 
 <!--
 **YOOHOO0/YOOHOO0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
