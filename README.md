@@ -35,7 +35,8 @@
 
 ### 🗡 Studying
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=black">
+<img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <br>
 <br>
 
