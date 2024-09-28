@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">-->
 
 ### 🤗 Hi there, I'm Yoohoo
 
@@ -10,13 +10,14 @@
 
 <hr>
 
-<div align="center">
+<!--<div align="center">-->
 
 <!-- [![seoshin's 42 stats](https://badge42.vercel.app/api/v2/cl56gccpe001109mava0fxil5/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42) -->
 
-### ✏ solved.ac
+<!-- ### ✏ solved.ac -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoohoo030)](https://solved.ac/yoohoo030/)
-  
+
+<!--
 ### 🗡 Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -39,6 +40,7 @@
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <br>
 <br>
+-->
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rainshowerr) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainshowerr&layout=compact)
