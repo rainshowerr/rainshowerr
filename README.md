@@ -1,6 +1,6 @@
 <!--<div align="center">-->
 
-### 🤗 Hi there, I'm Yoohoo
+### Hi there, I'm Yoohoo 🤗
 
 🎓 I am majoring in Economics and CSE at Sogang univ.
   
